@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Blog de Viajes
+email: viajesblog@gmail.com
+description: Un blog divertido sobre viajar.
+baseurl: "/blog-de-viajes"
+twitter_username: anti_tk 
+avatar: "http://as00.epimg.net/img/comunes/fotos/fichas/equipos/large/4175.png" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Manuel Gutierrez" # Set default author name
+      categories: "lugares"
       layout: "post"
       comments: true
   -
