@@ -1,6 +1,6 @@
 ---
 title:  "San Pedro de Atacama, Antofagasta"
-image: https://media-cdn.tripadvisor.com/media/photo-s/01/0e/86/8a/san-pedro-de-atacama.jpg
+image: feat-img.jpg
 ---
 
 San Pedro de Atacama es una comuna chilena ubicada en la provincia de El Loa, en la región de Antofagasta. Su capital es la localidad del mismo nombre.
